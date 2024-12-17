@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mjgregoire
-- 👀 I’m a PhD candidate in Cell and Molecular Biology at the University of RI. I'm interested in bioinformatics, big data, and programming
-- 🌱 I’m currently learning how to code in Python
-- 📫 You can reach me at mjgregoire@uri.edu
+- 👀 I’m a Postdoc in the Neuroscience Department at the Yale School of Medicine
+- 🌱 I’m interested in learning more about bioinformatics and big data
+- 📫 You can reach me at michelle.gregoire@yale.edu
